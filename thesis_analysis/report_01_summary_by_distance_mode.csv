@@ -1,0 +1,25 @@
+,priority_distance_m,mode,count,mean,median,std,min,max
+travel_time,50.0,Priority ON,300.0,50.297,42.0,41.251,1.0,207.0
+stopped_time,50.0,Priority ON,300.0,1.633,0.0,5.021,0.0,38.0
+congestion_delta_pct,50.0,Priority ON,300.0,-0.743,-0.35,11.564,-29.7,34.9
+travel_time,50.0,Priority OFF,300.0,65.577,46.0,57.232,1.0,229.0
+stopped_time,50.0,Priority OFF,300.0,17.397,1.0,26.539,0.0,116.0
+congestion_delta_pct,50.0,Priority OFF,300.0,1.659,2.6,12.262,-31.1,33.0
+travel_time,100.0,Priority ON,300.0,55.283,46.0,42.04,2.0,170.0
+stopped_time,100.0,Priority ON,300.0,1.363,0.0,3.552,0.0,31.0
+congestion_delta_pct,100.0,Priority ON,300.0,0.032,0.75,11.104,-34.3,34.5
+travel_time,100.0,Priority OFF,300.0,65.577,46.0,57.232,1.0,229.0
+stopped_time,100.0,Priority OFF,300.0,17.397,1.0,26.539,0.0,116.0
+congestion_delta_pct,100.0,Priority OFF,300.0,1.659,2.6,12.262,-31.1,33.0
+travel_time,150.0,Priority ON,300.0,54.71,48.0,40.288,1.0,167.0
+stopped_time,150.0,Priority ON,300.0,1.877,0.0,4.148,0.0,30.0
+congestion_delta_pct,150.0,Priority ON,300.0,-0.945,-0.65,11.607,-32.7,36.0
+travel_time,150.0,Priority OFF,300.0,65.577,46.0,57.232,1.0,229.0
+stopped_time,150.0,Priority OFF,300.0,17.397,1.0,26.539,0.0,116.0
+congestion_delta_pct,150.0,Priority OFF,300.0,1.659,2.6,12.262,-31.1,33.0
+travel_time,200.0,Priority ON,300.0,53.807,46.5,40.324,1.0,182.0
+stopped_time,200.0,Priority ON,300.0,1.303,0.0,3.019,0.0,17.0
+congestion_delta_pct,200.0,Priority ON,300.0,-1.087,-0.5,11.986,-35.9,30.7
+travel_time,200.0,Priority OFF,300.0,65.577,46.0,57.232,1.0,229.0
+stopped_time,200.0,Priority OFF,300.0,17.397,1.0,26.539,0.0,116.0
+congestion_delta_pct,200.0,Priority OFF,300.0,1.659,2.6,12.262,-31.1,33.0

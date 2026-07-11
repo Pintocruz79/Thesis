@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-06-19T00:13:31.635842+00:00 by Eclipse SUMO netedit 1.27.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="DEFAULT_VEHTYPE" maxSpeed="30.00" jmIgnoreKeepClearTime="-1.00" jmSigmaMinor="0.4" jmTimegapMinor="1.5"/>
+    <vType id="emergency" maxSpeed="36.11" speedFactor="normc(1.30,0.00)" vClass="emergency" emissionClass="HBEFA4/LCV_diesel_N1-III_Euro-6ab" impatience="1.00" guiShape="emergency" lcStrategic="5" lcCooperative="0.5" lcSpeedGain="2" lcKeepRight="0" lcPushy="1" lcImpatience="1" lcTimeToImpatience="1" jmCrossingGap="5" jmDriveAfterYellowTime="1" jmDriveAfterRedTime="3" jmDriveRedSpeed="5" jmIgnoreKeepClearTime="0" jmIgnoreFoeSpeed="5" jmIgnoreFoeProb="0" jmSigmaMinor="0.00" jmTimegapMinor="0.2" accel="3" decel="5" sigma="0" tau="0.5"/>
+</routes>
