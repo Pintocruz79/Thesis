@@ -10,6 +10,7 @@ run_experiments.py    Experiment driver: builds demand, runs 30 trials × 5 cond
                       writes emergency_metrics_priority.csv and background_metrics.csv
 data_analysis.py      Statistical analysis: produces report_01–05 CSVs and all figures
 entrecampos.net.xml   SUMO network of Entrecampos (OpenStreetMap import, refined in NetEdit)
+entreampos.rou.xml    Vehicle's Configuration
 thesis_analysis/      Output CSVs and figures as reported in the thesis
 LICENSE               MIT
 ```
