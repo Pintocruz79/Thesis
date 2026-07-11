@@ -9,8 +9,8 @@ run_experiments.py    Experiment driver: builds demand, runs 30 trials × 5 cond
                       (baseline + trigger distances 50/100/150/200 m) via TraCI,
                       writes emergency_metrics_priority.csv and background_metrics.csv
 data_analysis.py      Statistical analysis: produces report_01–05 CSVs and all figures
-network/              SUMO network of Entrecampos (OpenStreetMap import, refined in NetEdit)
-reports/              Output CSVs and figures as reported in the thesis
+entrecampos.net.xml   SUMO network of Entrecampos (OpenStreetMap import, refined in NetEdit)
+thesis_analysis/      Output CSVs and figures as reported in the thesis
 LICENSE               MIT
 ```
 
