@@ -1,6 +1,6 @@
 # SUMO Emergency-Vehicle Signal Pre-emption — Entrecampos, Lisbon
 
-Simulation code and data for the MSc thesis **“Traffic Lights Scenario for Emergency Vehicle Response Time Optimisation”** (Francisco Cruz, NOVA IMS — Universidade Nova de Lisboa, 2026, supervised by Mijail Naranjo Zolotov). A rule-based, distance-triggered traffic-light pre-emption policy for emergency vehicles is evaluated on a SUMO model of the Entrecampos junction complex in Lisbon, measuring both the benefit to emergency vehicles and the cost imposed on background traffic. Across 30 paired trials, a 50 m trigger distance reduced mean emergency travel time by 23.3% while adding +6.3 s (+4.7%) to mean background travel time; larger trigger distances produced no additional emergency benefit but a higher background cost.
+Simulation code and data for the MSc thesis **“Optimising Traffic Signal Pre-emption for Emergency Vehicle Response”** (Francisco Cruz, NOVA IMS — Universidade Nova de Lisboa, 2026, supervised by Mijail Naranjo Zolotov). A rule-based, distance-triggered traffic-light pre-emption policy for emergency vehicles is evaluated on a SUMO model of the Entrecampos junction complex in Lisbon, measuring both the benefit to emergency vehicles and the cost imposed on background traffic. Across 30 paired trials, a 50 m trigger distance reduced mean emergency travel time by 23.3% while adding +6.3 s (+4.7%) to mean background travel time; larger trigger distances produced no additional emergency benefit but a higher background cost.
 
 ## Repository structure
 
